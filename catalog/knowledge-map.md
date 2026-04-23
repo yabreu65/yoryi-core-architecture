@@ -25,11 +25,17 @@ Entry point unico para humanos y agentes.
 - `checks/architecture/service-readiness-scorecard.md`
 - `checks/delivery/pr-architecture-checklist.md`
 - `checks/delivery/release-gates.md`
+- `checks/delivery/tool-contract-test-checklist.md`
 
 ## Decision support
 
 - `templates/adr-template.md`
+- `templates/ai-evals-baseline-template.md`
 - `playbooks/planning/opencode-planning-flow.md`
+
+## Incident response
+
+- `playbooks/operations/ai-leakage-incident-response.md`
 
 ## Traceability
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.2.0 - 2026-04-23
+
+- Complecion de doctrina operativa de alto impacto en NestJS, AI Agents, AI Runtime y delivery checks.
+- Ejecucion de S1-08 con reporte de simulacion OpenCode en caso real JurisManager.
+- Cierre de S1-09 con assets operativos: template de evals AI, checklist de tests de contrato de tools y runbook de incidente de leakage AI.
+- Actualizacion de indices y knowledge map para enlazar nuevos activos.
+
 ## 0.1.0 - 2026-04-23
 
 - Inicializacion de estructura base del framework arquitectonico.

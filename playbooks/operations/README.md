@@ -1,3 +1,5 @@
 # Operations Playbooks
 
-Espacio reservado para incident response, rollout y migraciones.
+Playbooks operativos para incidentes, rollout y migraciones.
+
+- `ai-leakage-incident-response.md`
