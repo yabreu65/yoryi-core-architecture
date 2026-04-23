@@ -40,6 +40,7 @@ Entry point unico para humanos y agentes.
 
 ## Incident response
 
+- `playbooks/operations/incident-response-flow.md`
 - `playbooks/operations/ai-leakage-incident-response.md`
 
 ## Traceability
