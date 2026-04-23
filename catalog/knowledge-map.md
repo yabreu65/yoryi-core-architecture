@@ -18,6 +18,7 @@ Entry point unico para humanos y agentes.
 - Frontend/State: `domains/frontend/architecture/state-strategy.md`
 - Frontend/BFF: `domains/frontend/architecture/bff-and-contracts.md`
 - Frontend/Testing: `domains/frontend/quality/testing-strategy.md`
+- Frontend/Observability: `domains/frontend/quality/observability-frontend.md`
 - AI/RAG: `domains/ai/rag/multi-tenant-rag.md`
 - AI/Agents: `domains/ai/agents/orchestration-topologies.md`
 - AI/Runtime: `domains/ai/runtime/ai-ops-observability.md`
