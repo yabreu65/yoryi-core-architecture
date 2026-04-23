@@ -53,3 +53,7 @@ Entry point unico para humanos y agentes.
 ## Traceability
 
 - `catalog/source-traceability.md`
+
+## Governance
+
+- `governance/ownership-model.md`
