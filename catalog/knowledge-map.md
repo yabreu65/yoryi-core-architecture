@@ -70,3 +70,4 @@ Entry point unico para humanos y agentes.
 
 - `governance/ownership-model.md`
 - `governance/sprint1-sprint2-consolidation.md`
+- `governance/roadmap-phases.md`
