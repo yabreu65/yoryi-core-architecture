@@ -14,6 +14,8 @@ Entry point unico para humanos y agentes.
 - Backend/Postgres: `domains/backend/postgres/multi-tenancy-data-isolation.md`
 - Backend/Security: `domains/backend/security/identity-tenant-context.md`
 - Backend/NestJS: `domains/backend/nestjs/module-boundaries.md`
+- Frontend/Architecture: `domains/frontend/architecture/frontend-boundaries.md`
+- Frontend/State: `domains/frontend/architecture/state-strategy.md`
 - AI/RAG: `domains/ai/rag/multi-tenant-rag.md`
 - AI/Agents: `domains/ai/agents/orchestration-topologies.md`
 - AI/Runtime: `domains/ai/runtime/ai-ops-observability.md`
