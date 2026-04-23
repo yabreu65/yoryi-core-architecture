@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.3.0 - 2026-04-23
+
+- Complecion del bloque de doctrina frontend: boundaries, state strategy, BFF/contracts, testing y observabilidad.
+- Nuevos playbooks operativos: incident response, migration rollout y tenant isolation upgrade.
+- Nuevos templates de gobernanza: architecture review y AI feature design.
+- Modelo de ownership por dominio con RACI y reglas de escalamiento D1/D2/D3.
+- Validacion S2-09 en dos casos reales (BuildingOS y JurisManager) con evidencia registrada.
+
 ## 0.2.0 - 2026-04-23
 
 - Complecion de doctrina operativa de alto impacto en NestJS, AI Agents, AI Runtime y delivery checks.
