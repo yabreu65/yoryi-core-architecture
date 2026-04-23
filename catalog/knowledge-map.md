@@ -36,6 +36,8 @@ Entry point unico para humanos y agentes.
 
 - `templates/adr-template.md`
 - `templates/ai-evals-baseline-template.md`
+- `templates/architecture-review-template.md`
+- `templates/ai-feature-design-template.md`
 - `playbooks/planning/opencode-planning-flow.md`
 
 ## Incident response
