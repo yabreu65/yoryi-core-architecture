@@ -28,6 +28,7 @@ Entry point unico para humanos y agentes.
 
 - `checks/architecture/module-review-checklist.md`
 - `checks/architecture/service-readiness-scorecard.md`
+- `checks/architecture/planning-quality-scorecard.md`
 - `checks/delivery/pr-architecture-checklist.md`
 - `checks/delivery/release-gates.md`
 - `checks/delivery/tool-contract-test-checklist.md`
@@ -38,7 +39,12 @@ Entry point unico para humanos y agentes.
 - `templates/ai-evals-baseline-template.md`
 - `templates/architecture-review-template.md`
 - `templates/ai-feature-design-template.md`
+- `templates/planning-validation-report-template.md`
 - `playbooks/planning/opencode-planning-flow.md`
+
+## Planning validation
+
+- `playbooks/planning/opencode-validation-runbook.md`
 
 ## Incident response
 
@@ -53,6 +59,7 @@ Entry point unico para humanos y agentes.
 ## Validation reports
 
 - `playbooks/planning/s2-09-validation-report-2-real-cases.md`
+- `playbooks/planning/opencode-validation-pilot-2026-04-23.md`
 
 ## Traceability
 
@@ -61,3 +68,4 @@ Entry point unico para humanos y agentes.
 ## Governance
 
 - `governance/ownership-model.md`
+- `governance/sprint1-sprint2-consolidation.md`

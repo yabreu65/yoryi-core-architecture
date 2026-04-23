@@ -38,3 +38,15 @@ Entregar plan con:
 - evidencia de checklist,
 - riesgos y mitigaciones,
 - ADR o justificacion.
+
+## Step 6 - Planning quality gate
+
+Evaluar el plan con `checks/architecture/planning-quality-scorecard.md`.
+
+Regla:
+
+- score total >= 10,
+- evidencia traceability = 2,
+- anti-hallucination discipline = 2.
+
+Si no cumple, replan obligatorio.

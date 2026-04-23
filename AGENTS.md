@@ -23,6 +23,9 @@ Si falta contexto, crear gap explicito antes de planificar.
 - No exception without ADR.
 - No permanent exception without expiration date.
 - No AI retrieval without tenant authorization boundary.
+- No unsupported claim: every relevant architectural claim must cite at least one repo path.
+- No fabricated artifacts: never invent files, services, contracts, metrics, or decisions not present in repo evidence.
+- If context is missing, mark it as explicit gap before proposing implementation details.
 
 ## Violation detection
 
@@ -38,10 +41,21 @@ Una propuesta viola arquitectura si ocurre uno o mas casos:
 Todo plan debe incluir:
 
 - Context docs consultados.
+- Evidencia por decision (`path -> regla usada`).
 - Decisiones candidatas con trade-offs.
 - Checklist aplicado.
 - Riesgos y mitigaciones.
 - ADR requerido o justificacion de no requerir ADR.
+
+## Anti-hallucination protocol
+
+Para reducir alucinaciones en planificacion:
+
+1. Verificar contexto minimo (`knowledge-map`, `constitution`, dominio, `checks`).
+2. Citar rutas concretas para reglas y constraints usadas.
+3. Marcar explicitamente lo desconocido como `GAP`.
+4. Evitar detalles de implementacion no respaldados por docs existentes.
+5. Cerrar con score de calidad usando `checks/architecture/planning-quality-scorecard.md`.
 
 ## Multi-SaaS mode
 
