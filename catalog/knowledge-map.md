@@ -50,6 +50,10 @@ Entry point unico para humanos y agentes.
 - `playbooks/operations/migration-rollout-flow.md`
 - `playbooks/operations/tenant-isolation-upgrade-flow.md`
 
+## Validation reports
+
+- `playbooks/planning/s2-09-validation-report-2-real-cases.md`
+
 ## Traceability
 
 - `catalog/source-traceability.md`
