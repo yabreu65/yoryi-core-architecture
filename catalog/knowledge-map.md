@@ -46,6 +46,7 @@ Entry point unico para humanos y agentes.
 ## Operations rollout
 
 - `playbooks/operations/migration-rollout-flow.md`
+- `playbooks/operations/tenant-isolation-upgrade-flow.md`
 
 ## Traceability
 

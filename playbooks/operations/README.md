@@ -4,4 +4,5 @@ Playbooks operativos para incidentes, rollout y migraciones.
 
 - `incident-response-flow.md`
 - `migration-rollout-flow.md`
+- `tenant-isolation-upgrade-flow.md`
 - `ai-leakage-incident-response.md`
