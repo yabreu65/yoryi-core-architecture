@@ -20,27 +20,27 @@ Documento de estabilizacion antes de abrir Sprint 3.
 
 ### 1) Doctrina base estable
 
-- [ ] Freeze temporal de cambios estructurales (solo fixes).
-- [ ] Revisar consistencia entre `AGENTS.md`, `knowledge-map` y `checks`.
-- [ ] Confirmar ownership por dominio vigente.
+- [x] Freeze temporal de cambios estructurales (solo fixes).
+- [x] Revisar consistencia entre `AGENTS.md`, `knowledge-map` y `checks`.
+- [x] Confirmar ownership por dominio vigente.
 
 ### 2) Docs criticos completos
 
-- [ ] Ningun doc critico sin owner o metadata minima.
-- [ ] Todas las fronteras clave cubiertas (tenant, contracts, AI safety, operations).
-- [ ] Indices (`catalog/*`) sincronizados.
+- [x] Ningun doc critico sin owner o metadata minima.
+- [x] Todas las fronteras clave cubiertas (tenant, contracts, AI safety, operations).
+- [x] Indices (`catalog/*`) sincronizados.
 
 ### 3) Validacion real con OpenCode
 
-- [ ] Ejecutar `playbooks/planning/opencode-validation-runbook.md`.
-- [ ] Guardar evidencias baseline/guided/stress.
-- [ ] Generar reporte con `templates/planning-validation-report-template.md`.
+- [x] Ejecutar `playbooks/planning/opencode-validation-runbook.md`.
+- [x] Guardar evidencias baseline/guided/stress.
+- [x] Generar reporte con `templates/planning-validation-report-template.md`.
 
 ### 4) Metricas de calidad
 
-- [ ] Aplicar `checks/architecture/planning-quality-scorecard.md` a todos los casos.
-- [ ] Confirmar umbrales de exito.
-- [ ] Definir backlog de mejoras doctrinales.
+- [x] Aplicar `checks/architecture/planning-quality-scorecard.md` a todos los casos.
+- [x] Confirmar umbrales de exito.
+- [x] Definir backlog de mejoras doctrinales.
 
 ## Gate para abrir Sprint 3
 

@@ -60,6 +60,7 @@ Entry point unico para humanos y agentes.
 
 - `playbooks/planning/s2-09-validation-report-2-real-cases.md`
 - `playbooks/planning/opencode-validation-pilot-2026-04-23.md`
+- `playbooks/planning/opencode-validation-report-2026-04-23.md`
 
 ## Traceability
 
